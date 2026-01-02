@@ -112,7 +112,13 @@ You may view and evaluate the code for educational purposes only.
 Commercial use, redistribution, modification, or selling of this project
 is strictly prohibited without explicit written permission from the author.
 
+# Note on Git History
 
+ I accidentally force-pushed my local repository, which replaced the previous GitHub commit history. 
+
+All current files, including the Medicine Reminder Web App, README, and LICENSE, reflect the complete work done during this period. 
+
+A screenshot of the terminal showing the force push command is included in `docs/screenshots/force-push.png` as evidence of the work done.
 
 
 
